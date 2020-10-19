@@ -22,10 +22,10 @@ Better Interaction with consumers
 Gather data faster
 
 # 7 steps to building a chatbot
-Decides on an application area
-Design conversations
-List intents, entities , actions, responses, contexts
-Train AI engines
-Write code for actions
-Create and update knowledge base
-Test scenarios and incrementally improve
+1.Decides on an application area
+2.Design conversations
+3.List intents, entities , actions, responses, contexts
+4.Train AI engines
+5.Write code for actions
+6.Create and update knowledge base
+7.Test scenarios and incrementally improve
