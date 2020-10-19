@@ -19,11 +19,11 @@ This function gives the welcome message
 
 def welcome(name):
     message = [
-        "How may I help you?",
-        "Is there anything I can help with?",
-        "How can i help you?"
+        "<==How may I help you?",
+        "<==Is there anything I can help with?",
+        "<==How can i help you?"
     ]
-    print(f"{current_time()}! {name}, {random.choice(message)}")
+    print(f"{current_time()}!, {name}, {random.choice(message)}")
 
 def show_opt():
     print("1. Top 10 Upcoming IT Skills")
