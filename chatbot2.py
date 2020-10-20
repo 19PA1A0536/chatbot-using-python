@@ -250,7 +250,7 @@ def lat_tre():
 
     def skill_2020():
         option=tre_lat()
-        while option!= 5:
+        while option!= 11:
             if option == 1:
                 Complexproblemsolving()
             elif option == 2:
