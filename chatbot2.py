@@ -31,7 +31,7 @@ def show_opt():
     print("3. End the chat")
     print("---------------------------")
     try:
-        return(int(input("Enter your choice[1-3]: ")))
+        return(int(input("Enter the number what you are interested in[1-3]: ")))
     except :
         print("Only enter choice from 1, 2and 3")
         return 0
