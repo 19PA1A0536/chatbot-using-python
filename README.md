@@ -28,7 +28,7 @@ Gather data faster
 4.Train AI engines||
 5.Write code for actions||
 6.Create and update knowledge base||
-7.Test scenarios and incrementally improve.
+7.Test scenarios and incrementally improve. 
 
 
 We can easily build chatbots using python by  Import Classes. Importing classes is the second step in the Python chatbot .We have somany libraries which helps us to make our work easy.
